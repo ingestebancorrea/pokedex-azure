@@ -39,6 +39,7 @@ En consecuencia, ingresamos a la url y se procede abrir la app subida o publicad
 <img src="https://user-images.githubusercontent.com/111609882/199331924-685a1704-b70c-4b82-9772-d56ccf370fe0.png">
 
 ***Nota***
+<br>
 En GitHub se puede verificar el estado del despliegue en el apartado actions
 <img src="https://user-images.githubusercontent.com/111609882/199332185-999574b4-af8c-4497-9423-7994440ddfd6.png">
 
