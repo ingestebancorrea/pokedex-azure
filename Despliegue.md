@@ -43,8 +43,8 @@ En consecuencia, ingresamos a la url y se procede abrir la app subida o publicad
 En GitHub se puede verificar el estado del despliegue en el apartado actions
 <img src="https://user-images.githubusercontent.com/111609882/199332185-999574b4-af8c-4497-9423-7994440ddfd6.png">
 
-Posteriormente se puede observar los flujos de trabajo (workflow) en Github.
+Posteriormente, se puede observar los flujos de trabajo (workflow) en Github.
 <img src="https://user-images.githubusercontent.com/111609882/199332280-10a927bf-3a07-449e-bb9a-c5c00ffbed40.png"> 
 
-Por utlimo podemos ver que el despliegue fue exitoso en la siguiente imagen.
+Por utlimo, podemos ver que el despliegue fue exitoso en la siguiente imagen.
 <img src="https://user-images.githubusercontent.com/111609882/199332450-39240825-8e04-4a7b-bf30-966ace0754f4.png">
