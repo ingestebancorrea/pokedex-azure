@@ -32,7 +32,18 @@ Siguiendo los pasos descritos anteriormente nos lleva a confirmar el despliegue 
 <img src="https://user-images.githubusercontent.com/111609882/199326772-0cc5ebe1-f786-45d0-bb0e-f9f6f5d7a7b4.png">
 
 En esta página se pueden visualizar el estado e información del sitio publicado.
-<img src="">
+<img src="https://user-images.githubusercontent.com/111609882/199331488-0856b4d3-3a04-4ee0-82bf-f8dce0e79896.png">
 
+En consecuencia, ingresamos a la url y se procede abrir la app subida o publicada en Azure.
+<img src="https://user-images.githubusercontent.com/111609882/199331702-929a11db-51c8-4c2c-8fe9-79ced075ba12.png">
+<img src="https://user-images.githubusercontent.com/111609882/199331924-685a1704-b70c-4b82-9772-d56ccf370fe0.png">
 
+***Nota***
+En GitHub se puede verificar el estado del despliegue en el apartado actions
+<img src="https://user-images.githubusercontent.com/111609882/199332185-999574b4-af8c-4497-9423-7994440ddfd6.png">
 
+Posteriormente se puede observar los flujos de trabajo (workflow) en Github.
+<img src="https://user-images.githubusercontent.com/111609882/199332280-10a927bf-3a07-449e-bb9a-c5c00ffbed40.png"> 
+
+Por utlimo podemos ver que el despliegue fue exitoso en la siguiente imagen.
+<img src="https://user-images.githubusercontent.com/111609882/199332450-39240825-8e04-4a7b-bf30-966ace0754f4.png">
