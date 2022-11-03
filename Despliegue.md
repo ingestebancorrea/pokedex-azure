@@ -1,6 +1,6 @@
 <h1> Despliegue de aplicación pokedex en Azure</h1>
 
-En primer lugar, debemos crear un recurso que se hara mediante
+En primer lugar, debemos crear un recurso que se hara mediante la plataforma de Azure
 <img src="https://user-images.githubusercontent.com/111609882/199324900-866f8021-1a9e-47bf-b83d-35e67db0f769.png">
 
 Luego, se debe buscar el recurso con el nombre Static Web Apss que permitira compilar aplicaciones nuestra aplicación web en Azure desde un respositorio de código.
