@@ -3,7 +3,7 @@
 En primer lugar, debemos crear un recurso que se hara mediante la plataforma de Azure
 <img src="https://user-images.githubusercontent.com/111609882/199324900-866f8021-1a9e-47bf-b83d-35e67db0f769.png">
 
-Luego, se debe buscar el recurso con el nombre Static Web Apss que permitira compilar aplicaciones nuestra aplicación web en Azure desde un respositorio de código.
+Luego, se debe buscar el recurso con el nombre Static Web Apss que permitira compilar nuestra aplicación web en Azure desde un respositorio de código.
 <img src="https://user-images.githubusercontent.com/111609882/199325206-bf438407-4aab-4ab7-af1f-9205d9234cc0.png">
      
 Posteriormente, cuando nos encontremos posicionados en el servicio descrito anteriormente se debe presionar en create
